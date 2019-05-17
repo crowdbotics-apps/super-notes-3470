@@ -1,0 +1,3 @@
+rootProject.name = 'super_notes_3470'
+
+include ':app'
